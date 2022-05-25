@@ -1,8 +1,13 @@
 public class academico {
 
+	private String nombre;
+
+	public academico(String nombre,) {
+		this.nombre = nombre;
+	}
+
 	public void Decano() {
-		// TODO - implement academico.Decano
-		throw new UnsupportedOperationException();
+
 	}
 
 }
