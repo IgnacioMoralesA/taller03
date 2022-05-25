@@ -2,7 +2,7 @@ public class academico {
 
 	private String nombre;
 
-	public academico(String nombre,) {
+	public academico(String nombre) {
 		this.nombre = nombre;
 	}
 
