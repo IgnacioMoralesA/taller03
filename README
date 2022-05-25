@@ -1,9 +1,8 @@
  *Una empresa de transporte de pasajeros cuenta con 12 buses por el momento, pero está pronta a comprar
  nuevos buses y dar de baja algunos que ya están viejos (vendiéndolos a un tercero).
- -empresa
- -buses
- -compra
- -venta
+ -empresa(metodo:compra/venta)
+ -bus
+ -persona
 
  *Un cuaderno universitario está conformado por 100 hojas, en un cuaderno se puede escribir y se le pueden
  arrancar hojas, las cuales al ser arrancadas quedan inutilizadas (hojas sueltas no sirven).
